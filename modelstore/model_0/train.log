@@ -1,0 +1,485 @@
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+	warm
+	train
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+	warm
+	train
+	warm
+	train
+	warm
+	train
+	warm
+	train
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+	warm
+	train
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+	warm
+	train
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+	warm
+	train
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+	warm
+	train
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+	warm
+	train
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+	warm
+	train
+training set location: /Users/ruchit/urop/data/train/
+training set size: 1680
+push set location: /Users/ruchit/urop/data/prototypes/
+push set size: 420
+test set location: /Users/ruchit/urop/data/validation/
+test set size: 840
+batch size: 20
+Using topk_k coeff from bash args: 9, which is 4.592%
+start training
+epoch: 	0
+	warm
+	train
+	time: 	41.695117235183716
+	cross ent: 	0.6515231948523295
+	cluster: 	1.3869965771834056
+	separation:	2.653422291789736
+	fine annotation:	0.0
+	avg separation:	6.26581182933989
+	auc score for class 0 is: 		0.9749234693877551
+	auc score for class 1 is: 		0.9814700255102041
+	auc score for class 2 is: 		0.9472146045918368
+	accu: 		85.17857142857143%
+	l1: 		45.0
+	p dist pair: 	78.19012451171875
+	the confusion matrix is: 		[500, 36, 11, 1133]
+	test
+	time: 	18.738059997558594
+	cross ent: 	0.2851605177635238
+	cluster: 	0.4426109393437703
+	separation:	2.8550147045226324
+	fine annotation:	0.0
+	avg separation:	6.101849851154146
+	auc score for class 0 is: 		0.9999170918367347
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9997895408163265
+	accu: 		99.52380952380952%
+	l1: 		45.0
+	p dist pair: 	78.19012451171875
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		0.9999022108843538 at epoch 0
+epoch: 	1
+	warm
+	train
+	time: 	38.59485602378845
+	cross ent: 	0.16745886029232115
+	cluster: 	0.3141491356350127
+	separation:	3.53184107371739
+	fine annotation:	0.0
+	avg separation:	6.155387299401419
+	auc score for class 0 is: 		0.9999378188775511
+	auc score for class 1 is: 		0.9999649234693878
+	auc score for class 2 is: 		0.9998134566326531
+	accu: 		99.40476190476191%
+	l1: 		45.0
+	p dist pair: 	80.4952621459961
+	the confusion matrix is: 		[560, 1, 0, 1119]
+	test
+	time: 	18.5559720993042
+	cross ent: 	0.11519432741971243
+	cluster: 	0.2708761713334492
+	separation:	4.168271382649739
+	fine annotation:	0.0
+	avg separation:	6.2476974328358965
+	auc score for class 0 is: 		0.9999936224489796
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9999744897959184
+	accu: 		99.88095238095238%
+	l1: 		45.0
+	p dist pair: 	80.4952621459961
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		0.9999893707482994 at epoch 1
+epoch: 	2
+	warm
+	train
+	time: 	38.48442316055298
+	cross ent: 	0.08748836819792077
+	cluster: 	0.22958752211360706
+	separation:	4.522842188676198
+	fine annotation:	0.0
+	avg separation:	6.370742372104099
+	auc score for class 0 is: 		0.9999936224489796
+	auc score for class 1 is: 		0.999998405612245
+	auc score for class 2 is: 		0.9999760841836735
+	accu: 		99.70238095238095%
+	l1: 		45.0
+	p dist pair: 	88.41740417480469
+	the confusion matrix is: 		[559, 0, 0, 1121]
+	test
+	time: 	18.463131189346313
+	cross ent: 	0.09589574326361928
+	cluster: 	0.26378192539725986
+	separation:	5.0303164550236295
+	fine annotation:	0.0
+	avg separation:	6.623719101860409
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9999936224489796
+	accu: 		99.64285714285714%
+	l1: 		45.0
+	p dist pair: 	88.41740417480469
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		0.9999978741496598 at epoch 2
+epoch: 	3
+	warm
+	train
+	time: 	38.4714572429657
+	cross ent: 	0.07439237864067157
+	cluster: 	0.22217018884562312
+	separation:	5.230528820128668
+	fine annotation:	0.0
+	avg separation:	6.8745226349149435
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9999776785714286
+	accu: 		99.88095238095238%
+	l1: 		45.0
+	p dist pair: 	99.77701568603516
+	the confusion matrix is: 		[560, 0, 0, 1120]
+	test
+	time: 	18.56211519241333
+	cross ent: 	0.09340711053283442
+	cluster: 	0.2799520616730054
+	separation:	5.818299270811535
+	fine annotation:	0.0
+	avg separation:	7.1520587376185825
+	auc score for class 0 is: 		0.9999808673469388
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		1.0
+	accu: 		99.88095238095238%
+	l1: 		45.0
+	p dist pair: 	99.77701568603516
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		0.9999978741496598 at epoch 2
+epoch: 	4
+	warm
+	train
+	time: 	38.75245785713196
+	cross ent: 	0.06577195475498836
+	cluster: 	0.21037270962482407
+	separation:	5.726979687100365
+	fine annotation:	0.0
+	avg separation:	7.327845204444158
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9999936224489796
+	accu: 		99.94047619047619%
+	l1: 		45.0
+	p dist pair: 	110.87857818603516
+	the confusion matrix is: 		[559, 0, 0, 1121]
+	test
+	time: 	18.534619092941284
+	cross ent: 	0.07953171742459138
+	cluster: 	0.24817577926885515
+	separation:	6.175648746036348
+	fine annotation:	0.0
+	avg separation:	7.618720520110357
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		1.0
+	accu: 		99.76190476190476%
+	l1: 		45.0
+	p dist pair: 	110.87857818603516
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		1.0 at epoch 4
+epoch: 	5
+	warm
+	train
+	time: 	39.40309715270996
+	cross ent: 	0.05909533000418118
+	cluster: 	0.20403876936151868
+	separation:	6.339758083933876
+	fine annotation:	0.0
+	avg separation:	7.878580394245329
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		1.0
+	accu: 		100.0%
+	l1: 		45.0
+	p dist pair: 	121.03374481201172
+	the confusion matrix is: 		[560, 0, 0, 1120]
+	test
+	time: 	18.649237871170044
+	cross ent: 	0.064557995647192
+	cluster: 	0.21429770581779026
+	separation:	6.2025556564331055
+	fine annotation:	0.0
+	avg separation:	8.107227007548014
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9999936224489796
+	accu: 		99.76190476190476%
+	l1: 		45.0
+	p dist pair: 	121.03374481201172
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		1.0 at epoch 4
+epoch: 	6
+	warm
+	train
+	time: 	38.75457787513733
+	cross ent: 	0.053231661163625266
+	cluster: 	0.20514544915585292
+	separation:	7.15841916061583
+	fine annotation:	0.0
+	avg separation:	8.635621922356743
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		1.0
+	accu: 		99.94047619047619%
+	l1: 		45.0
+	p dist pair: 	128.5433807373047
+	the confusion matrix is: 		[560, 0, 0, 1120]
+	test
+	time: 	18.880085945129395
+	cross ent: 	0.060222349395709376
+	cluster: 	0.23753916720549265
+	separation:	7.509506645656767
+	fine annotation:	0.0
+	avg separation:	9.096344380151658
+	auc score for class 0 is: 		0.999968112244898
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9999808673469388
+	accu: 		99.88095238095238%
+	l1: 		45.0
+	p dist pair: 	128.5433807373047
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		1.0 at epoch 4
+epoch: 	7
+	warm
+	train
+	time: 	38.39254689216614
+	cross ent: 	0.043867409051883785
+	cluster: 	0.21866277427900405
+	separation:	8.202623140244256
+	fine annotation:	0.0
+	avg separation:	9.522831417265392
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		1.0
+	accu: 		99.94047619047619%
+	l1: 		45.0
+	p dist pair: 	124.54402160644531
+	the confusion matrix is: 		[560, 0, 0, 1120]
+	test
+	time: 	18.515629053115845
+	cross ent: 	0.04043885251407379
+	cluster: 	0.24600310765561603
+	separation:	8.437444857188634
+	fine annotation:	0.0
+	avg separation:	9.730349177405948
+	auc score for class 0 is: 		0.9999170918367347
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9997831632653061
+	accu: 		99.76190476190476%
+	l1: 		45.0
+	p dist pair: 	124.54402160644531
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		1.0 at epoch 4
+epoch: 	8
+	warm
+	train
+	time: 	38.80190896987915
+	cross ent: 	0.020707858637684866
+	cluster: 	0.19973388367465564
+	separation:	8.934696095330375
+	fine annotation:	0.0
+	avg separation:	10.095427002225604
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		1.0
+	accu: 		99.94047619047619%
+	l1: 		45.0
+	p dist pair: 	125.55166625976562
+	the confusion matrix is: 		[560, 0, 0, 1120]
+	test
+	time: 	18.533801078796387
+	cross ent: 	0.028538833513656364
+	cluster: 	0.24448217238698686
+	separation:	8.995790424801054
+	fine annotation:	0.0
+	avg separation:	10.244558220817929
+	auc score for class 0 is: 		0.9999107142857143
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9999170918367347
+	accu: 		99.64285714285714%
+	l1: 		45.0
+	p dist pair: 	125.55166625976562
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		1.0 at epoch 4
+epoch: 	9
+	warm
+	train
+	time: 	38.31622123718262
+	cross ent: 	0.008388905102730774
+	cluster: 	0.19433892039316042
+	separation:	9.404118923913865
+	fine annotation:	0.0
+	avg separation:	10.589188768750144
+	auc score for class 0 is: 		1.0
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		1.0
+	accu: 		100.0%
+	l1: 		45.0
+	p dist pair: 	127.53570556640625
+	the confusion matrix is: 		[560, 0, 0, 1120]
+	test
+	time: 	18.41162919998169
+	cross ent: 	0.015717002201459503
+	cluster: 	0.2715348810667083
+	separation:	9.532738435836066
+	fine annotation:	0.0
+	avg separation:	10.740673587435769
+	auc score for class 0 is: 		0.9999553571428571
+	auc score for class 1 is: 		1.0
+	auc score for class 2 is: 		0.9999744897959184
+	accu: 		99.76190476190476%
+	l1: 		45.0
+	p dist pair: 	127.53570556640625
+	the confusion matrix is: 		[280, 0, 0, 560]
+	above 0.00%
+	current best auc is: 		1.0 at epoch 4
