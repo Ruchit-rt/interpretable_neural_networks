@@ -1,0 +1,1 @@
+python3 accuracy.py -model_dir='/Users/ruchit/urop/model_correct_structure/' -model_name="9nopush0.8925.pth" -base="vgg16"
